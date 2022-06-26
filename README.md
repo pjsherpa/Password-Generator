@@ -21,7 +21,7 @@ who,what,where,which,when?
 
 -By clicking Generate it will prompt options of upper,lowercase alphabet or both,symbol and numbers.
 
-3. Where will we add the password criteria and length for it to work?
+3. Where will I add the password criteria and length for it to work?
 
 -The password criteria and length of the password will be asked in a prompt and from there will be added in a function which will need to be invoked. In this case it is already created.
 
@@ -54,7 +54,7 @@ Javascript:
 4. Create 4 empty variables for the 4 question. Name: v for alphabet criteria,w for number criteria,x for specialCharacter criteria and y for length criteria.
 5. To double check that lenght value has been converted I have converted it into a number with a new variable length and have put console.log to confirm it.
 6. The last step I have concatinated v,w,x into one variable named characters. 
-7. I have assigned the length which we got from var y onto the loop and then assigned both the character and length to math.random function to generate the password.
+7. I have assigned the length which I got from var y onto the loop and then assigned both the character and length to math.random function to generate the password.
 8. Application load with no error please find link on deployment provided.(ref Deployment 1)
 9. Comments are provided in js file.
 
