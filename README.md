@@ -1,4 +1,4 @@
-# Passwrod-Generator
+# Password-Generator
 Generating Secure Password
 This readme has the following:
 1. Brainstorm
