@@ -6,7 +6,7 @@
 var alphabet="abcdefghijklmnopqrstuvwxyz"
 var upper=alphabet.toUpperCase();
 var numeric="123456789"
-var specialCharacter="~! @#$%^&*()_-+={[}]|;<,>.?/";
+var specialCharacter="~@#$!%^&*_-+=;<,>.?/";
 
 function generatePassword(){
   // passwordText is what we will need to find. we kept this in the local scope and not the global scope as it will just add into the password previously created.-PJ
