@@ -6,7 +6,7 @@ Note:The following will be provided in present tense besides the brainstorm wher
 This readme has the following:
 1. Brainstorm
 2. Features
-3. javascript
+3. Javascript
 4. Deployment
 5. Screenshot of Password Gen for reference(img1-img5)
 
