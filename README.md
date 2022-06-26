@@ -3,7 +3,6 @@ UCB Challenge 3
 
 Note:The following will be provided in present tense besides the brainstorm where some presense of future tense is present.
 
-Generating Secure Password
 This readme has the following:
 1. Brainstorm
 2. Features
