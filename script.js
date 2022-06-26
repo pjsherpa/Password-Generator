@@ -6,10 +6,10 @@
 var alphabet="abcdefghijklmnopqrstuvwxyz"
 var upper=alphabet.toUpperCase();
 var numeric="123456789"
-var specialCharacter="^&!@$-_*";
+var specialCharacter="~! @#$%^&*()_-+={[}]|;<,>.?/";
 
 function generatePassword(){
-  // this is what we will need to find we kept this in the local scope and not the global scope as it will just add into the password previously created.-PJ
+  // passwordText is what we will need to find. we kept this in the local scope and not the global scope as it will just add into the password previously created.-PJ
   var passwordText='';
   // first set of question for password criteria is to give a value to v, which will include the type of alphabet lower/upper case or both.-PJ
   var v=prompt("Would you like a.uppercase or b.lowercase alphabet or c.both in your password? Please select a, b or c")
