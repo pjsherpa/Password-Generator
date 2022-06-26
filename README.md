@@ -42,9 +42,9 @@ All Questions are in one function called GeneratePassword.
 
 1. There are 4 series of questions that is prompted.
 2. For alphabet there are three options provided for uppercase,lowercase or both.(ref img:1)
-3. For number and symbol if selected "n" then the variable value for them will be empty. "y" will include the value.
-4. If the selection is beyond the given selection(ref img:2) asked for eg "y" || "n" then the question is discontinued after a alert message pops up stating what needs to be typed in.(ref img:3)
-5. The final question asks for the length of the password from 8-128(ref img:4) once provided will generate the secure password(ref img:5). If below 8 or above 128 it will discontinue question and need to restart again.
+3. For number and symbol  there are two option "y"||"n" if selected "n" then the variable value will not be included. "y" will include the value.
+4. If the selection is beyond the given selection(ref img:2) asked for eg: "a"|| "b"||"c" then the question is discontinued after a alert message pops up stating what needs to be typed in.(ref img:3)
+5. The final question asks for the length of the password from 8-128(ref img:4) once provided will generate the secure password(ref img:5). If below 8 or above 128 it will pop an alert message and discontinue and user needs to restart again.
 
 
 Javascript:
