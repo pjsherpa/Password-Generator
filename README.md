@@ -14,13 +14,16 @@ who,what,where,when,why,how?
 This is for an employee or anyone else who wants to create a randomly generated password with options they have selected. 
 
 2. What will consist in the password?
+
 By clicking Generate it will prompt options of upper,lowercase alphabet or both,symbol and numbers.
 3. Where will we add the password criteria and length for it to work?
 
 The password criteria and length of the password will be asked in a prompt and from there will be added in a function which will need to be invoked. In this case it is present.
+
 4. Which function will be used for which case and for what purpose?
 
 We will be using function expression as we are creating a value.
+
 5. When will the functions be invoked?
 
 Once all criteria have been met/selected
