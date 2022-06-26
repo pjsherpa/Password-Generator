@@ -11,10 +11,10 @@ This readme has the following:
 5. Screenshot of Password Gen for reference(img1-img5)
 
 Brainstorm:(Before Starting this challenge)
-who,what,where,which,when,how?
+who,what,where,which,when?
 
 1. Who is this for?
-2. 
+
 -This is for an employee or anyone else who wants to create a randomly generated password with options they have selected. 
 
 2. What will consist in the password?
