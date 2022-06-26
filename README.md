@@ -11,26 +11,28 @@ This readme has the following:
 5. Screenshot of Password Gen for reference(img1-img5)
 
 Brainstorm:(Before Starting this challenge)
-who,what,where,which,when?
+who,what,where,which,when,how?
 
 1. Who is this for?
-This is for an employee or anyone else who wants to create a randomly generated password with options they have selected. 
+2. 
+-This is for an employee or anyone else who wants to create a randomly generated password with options they have selected. 
 
 2. What will consist in the password?
 
-By clicking Generate it will prompt options of upper,lowercase alphabet or both,symbol and numbers.
+-By clicking Generate it will prompt options of upper,lowercase alphabet or both,symbol and numbers.
 
 3. Where will we add the password criteria and length for it to work?
 
-The password criteria and length of the password will be asked in a prompt and from there will be added in a function which will need to be invoked. In this case it is present.
+-The password criteria and length of the password will be asked in a prompt and from there will be added in a function which will need to be invoked. In this case it is already created.
 
-4. Which function will be used for which case and for what purpose?
+4. Which function will be used declarartion||expression?
 
-We will be using function declaration.
+-I will use function declaration.
 
 5. When will the functions be invoked?
 
-Once all criteria have been met/selected from the question provided.
+-Once all criteria have been met/selected from the question provided.
+
 
 Features:
 
@@ -47,13 +49,13 @@ All Questions are in one function called GeneratePassword.
 
 Javascript:
 1. Create four variables which are the values that will help construct the password.
-2. Variable passwordText is what is required to find.  Kept this in the local scope and not the global scope as it will just add into the password previously created if in the global scope.
+2. Variable passwordText is what is required to find.  Kept this in the local scope and not the global scope as it will just add into the password previously created if in the global scope.(this applies when recreating another password).
 3. Create 4 question to prompt with if else statements to select criteria.
 4. Create 4 empty variables for the 4 question. Name: v for alphabet criteria,w for number criteria,x for specialCharacter criteria and y for length criteria.
 5. To double check that lenght value has been converted I have converted it into a number with a new variable length and have put console.log to confirm it.
 6. The last step I have concatinated v,w,x into one variable named characters. 
 7. I have assigned the length which we got from var y onto the loop and then assigned both the character and length to math.random function to generate the password.
-8. Application load with no error please find link on deployment provided.(ref deployment 1)
+8. Application load with no error please find link on deployment provided.(ref Deployment 1)
 9. Comments are provided in js file.
 
 Deployment:
